@@ -1,0 +1,18 @@
+---
+title: "test_markdown"
+author: "Nicole Bellantoni"
+date: "2026-11-13"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Typing is normal. `now code font`. 
+
+Typing is normal. **now bold** 
+
+Typing is normal. *now italic* 
+
+Typing is normal. ***now bold and italic***
